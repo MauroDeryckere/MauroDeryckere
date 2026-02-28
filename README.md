@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Mauro!
+### Game Engine Developer | Graphics Programmer
 
-<!--
-**MauroDeryckere/MauroDeryckere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MauroDeryckere&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+---
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-sage-41.vercel.app/api?username=MauroDeryckere&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-sage-41.vercel.app/api/top-langs/?username=MauroDeryckere&layout=compact&count_private=true&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroDeryckere&theme=radical&area=true&hide_border=true)
+
+---
+
+<p align="left">
+<a href="https://linkedin.com/in/mauro-deryckere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+---
