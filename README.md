@@ -11,6 +11,8 @@
 
 ---
 
+## Stats
+
 <div align="center">
   <table border="0">
     <tr>
@@ -28,8 +30,11 @@
 
 ---
 
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/mauro-deryckere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://https://mauroderyckere.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" height="35" /></a>
 </p>
+
 
 ---
