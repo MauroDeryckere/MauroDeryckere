@@ -43,6 +43,7 @@
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/MauroDeryckere/MauroDeryckere/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## Connect with me
