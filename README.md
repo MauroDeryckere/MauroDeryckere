@@ -10,7 +10,7 @@
 ## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,godot,unity,unreal,visualstudio" />
-  <img src="./vulkan.png" width="48" height="48" style="border-radius: 10px;" />
+  <img src="vulkan.png" width="48" height="48" style="border-radius: 10px;" />
 </p>
 
 ![Systems](https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,powershell)
