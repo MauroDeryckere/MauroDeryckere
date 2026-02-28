@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=MauroDeryckere&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
+<p align="left">
+  <a href="https://mauroderyckere.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Portfolio-0e75b6?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mauro-deryckere" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## Tech Stack
