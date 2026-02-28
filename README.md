@@ -31,8 +31,7 @@
   </table>
 </div>
 
-![Snake animation](https://github.com/MauroDeryckere/MauroDeryckere/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/MauroDeryckere/MauroDeryckere/output/github-contribution-grid-snake.svg)
 ---
 
 ## Connect with me
