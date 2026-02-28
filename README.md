@@ -31,10 +31,21 @@
 ---
 
 ## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/mauro-deryckere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://https://mauroderyckere.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" height="35" /></a>
-</p>
+## 📬 Connect with me
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/mauro-deryckere">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" />
+      </a>
+    </td>
+    <td width="20px"></td> <td align="center">
+      <a href="https://MAURO_USER.itch.io">
+        <img src="https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" height="35" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
