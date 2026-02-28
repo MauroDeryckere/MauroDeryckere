@@ -19,10 +19,15 @@
 ## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,lua,godot,unity,unreal,visualstudio" />
+  <img src="6502Logo" width="48" height="48" style="border-radius: 10px;" />
   <img src="VulkanLogo.png" width="48" height="48" style="border-radius: 10px;" />
 </p>
 
-![Systems](https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,powershell)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,powershell" />
+  <img src="PerforceLogo.png" width="48" height="48" style="border-radius: 10px;" />
+</p>
+
 ---
 
 ## Stats
