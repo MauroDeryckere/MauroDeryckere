@@ -28,7 +28,7 @@
   </table>
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroDeryckere&theme=radical&area=true&hide_border=true&days=365)
+![Snake animation](https://github.com/MauroDeryckere/MauroDeryckere/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
