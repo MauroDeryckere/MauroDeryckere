@@ -34,11 +34,11 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/mauro-deryckere" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" style="padding-right: 20px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mauroderyckere.itch.io/" target="blank">
-    <img src="https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" height="35" style="padding-left: 20px;" />
+    <img src="https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" height="35"/>
   </a>
 </p>
 
