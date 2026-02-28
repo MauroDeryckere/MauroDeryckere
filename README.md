@@ -8,8 +8,7 @@
 ---
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Vulkan-%23E01E2E.svg?style=for-the-badge&logo=vulkan&logoColor=white" height="40" />&nbsp;&nbsp;
-![Graphics](https://skillicons.dev/icons?i=cpp,unity,unreal,visualstudio)
+![Graphics](https://skillicons.dev/icons?i=cpp,cs,assembly,vulkan,unreal,godot,unity,visualstudio)
 
 ![Systems](https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,powershell)
 ---
