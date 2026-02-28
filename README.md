@@ -8,7 +8,10 @@
 ---
 
 ## Tech Stack
+<img src="https://img.shields.io/badge/Vulkan-%23E01E2E.svg?style=for-the-badge&logo=vulkan&logoColor=white" height="40" />&nbsp;&nbsp;
+![Graphics](https://skillicons.dev/icons?i=cpp,unity,unreal,visualstudio)
 
+![Systems](https://skillicons.dev/icons?i=git,github,githubactions,cmake,docker,powershell)
 ---
 
 ## Stats
@@ -26,7 +29,7 @@
   </table>
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroDeryckere&theme=radical&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroDeryckere&theme=radical&area=true&hide_border=true&days=365)
 
 ---
 
