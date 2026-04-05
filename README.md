@@ -50,8 +50,16 @@ Currently studying Game Development at [Digital Arts and Entertainment](https://
 ### Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-sage-41.vercel.app/api?username=MauroDeryckere&show_icons=true&count_private=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-sage-41.vercel.app/api/top-langs/?username=MauroDeryckere&layout=compact&count_private=true&theme=radical&hide_border=true" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-sage-41.vercel.app/api?username=MauroDeryckere&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-sage-41.vercel.app/api/top-langs/?username=MauroDeryckere&layout=compact&count_private=true&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/MauroDeryckere/MauroDeryckere/output/github-contribution-grid-snake.svg)
